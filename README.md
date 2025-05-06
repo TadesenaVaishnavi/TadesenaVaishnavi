@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center"> I'm Vaishnavi Tadesena</h1>
-<h3 align="center">A passionate Full-stack Developer and AI (NLP) enthusiast from India</h3>
+<h3 align="center">A passionate Full-stack Developer, Prompt Engineering, and AI (NLP) enthusiast from India</h3>
 
 - 🌱 I’m currently learning **Prompt Engineering**  
 - 📫 How to reach me: **vaishnavitadesena@gmail.com**
