@@ -1,4 +1,4 @@
-##Hello, and thank you for visiting my GitHub profile! 👋
+## Hello, and thank you for visiting my GitHub profile! 👋
 <h1 align="center"> I'm Vaishnavi Tadesena</h1>
 <h3 align="center">A passionate Full-stack Developer, Prompt Engineering,MERN Developer and AI (NLP) enthusiast from India</h3>
 
