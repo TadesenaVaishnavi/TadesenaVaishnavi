@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full-stack Developer, Software Developer, Prompt Engineering, MERN Developer, Data Analyst and AI (NLP) enthusiast from India.</h3>
 
 
-
+<h5>3 years of journey of learning continuously with my discipline strength</h5>
 <h4>For the past three years, I've poured my heart into learning and growing every single day—driven by passion, fueled by curiosity, and grounded in discipline. I genuinely love what I do, and each new challenge excites me. I’m now seeking long-term opportunities where I can continue evolving through real-world projects, deepen my expertise, and make a meaningful impact doing what I truly love.</h4>
 
 - 📫 How to reach me: **vaishnavitadesena@gmail.com**
