@@ -59,6 +59,17 @@
 <h4>• Built predictive models to forecast future sales trends.</h4>
 <h4>• Created insightful visualizations to support business decisions.</h4>
 
+<!-- 7. CryptoWeather Nexus -->
+<h1 align="left">5. CryptoWeather Nexus</h1>
+<h2>Tech Stack: Next.js, Redux, Tailwind CSS, Node.js, Express.js, PostgreSQL, WebSocket, AWS (S3 & EC2)</h2>
+<h3>Description: A multi-page dashboard integrating real-time cryptocurrency and weather data with live notifications and cloud deployment.</h3>
+<h2>Key Contributions:</h2>
+<h4>• Implemented backend services with Node.js, Express.js, and PostgreSQL, enabling efficient storage and querying of historical crypto and weather data.</h4>
+<h4>• Built WebSocket-based real-time notifications for market and weather updates, serving 200+ concurrent users with under 1-second latency.</h4>
+<h4>• Created automated CI/CD pipelines and deployed the application on AWS S3 and EC2 for reliable and scalable releases.</h4>
+<h4>• Managed dynamic application state using Redux to ensure smooth synchronization with frontend components.</h4>
+<h4>• Developed a responsive frontend with Next.js and Tailwind CSS, enhancing user experience and interface performance.</h4>
+<h4>• <a href="https://github.com/TadesenaVaishnavi/CryptoWeather-Nexus" target="_blank">GitHub Link</a></h4>
 
 
 
