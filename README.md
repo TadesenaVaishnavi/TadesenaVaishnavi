@@ -20,14 +20,15 @@
 </p>
 
 ---
-<h3 align="left">1. Video Streaming Platform</h3>
-<h5>Tech Stack: Node.js, MongoDB, Express.js, HTML, CSS, GitHub</h5>
-<h4>Description: Developed a scalable video streaming web platform enabling users to upload, stream, and manage video content.</h4>
-<h5>Key Contributions:</h5>
-<h3>Designed backend APIs for user authentication and video management using Node.js and Express.</h3>
-<h3>Implemented MongoDB database schemas for efficient video metadata storage.</h3>
-<h3>Integrated streaming functionality ensuring smooth playback and optimized performance.</h3>
-<h3>Used GitHub for version control and deployment management.</h3>
+<h1 align="left">1. Video Streaming Platform</h1>
+<h6>Tech Stack: Node.js, MongoDB, Express.js, HTML, CSS, GitHub</h6>
+<h5>Description: Developed a scalable video streaming web platform enabling users to upload, stream, and manage video content.</h5>
+<h6>Key Contributions:</h6>
+<h4>Designed backend APIs for user authentication and video management using Node.js and Express.</h4>
+<h4>Implemented MongoDB database schemas for efficient video metadata storage.</h4>
+<h4>Integrated streaming functionality ensuring smooth playback and optimized performance.</h4>
+<h4>Used GitHub for version control and deployment management.</h4>
+
 
 
 
