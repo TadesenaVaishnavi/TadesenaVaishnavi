@@ -20,15 +20,44 @@
 </p>
 
 ---
+<!-- 1. Video Streaming Platform -->
 <h1 align="left">1. Video Streaming Platform</h1>
 <h2>Tech Stack: Node.js, MongoDB, Express.js, HTML, CSS, GitHub</h2>
 <h3>Description: Developed a scalable video streaming web platform enabling users to upload, stream, and manage video content.</h3>
 <h2>Key Contributions:</h2>
-<h4>Designed backend APIs for user authentication and video management using Node.js and Express.</h4>
-<h4>Implemented MongoDB database schemas for efficient video metadata storage.</h4>
-<h4>Integrated streaming functionality ensuring smooth playback and optimized performance.</h4>
-<h4>Used GitHub for version control and deployment management.</h4>
+<h4>• Designed backend APIs for user authentication and video management using Node.js and Express.</h4>
+<h4>• Implemented MongoDB database schemas for efficient video metadata storage.</h4>
+<h4>• Integrated streaming functionality ensuring smooth playback and optimized performance.</h4>
+<h4>• Used GitHub for version control and deployment management.</h4>
 
+<!-- 2. Cardiovascular Disease Detection using ECG Images -->
+<h1 align="left">2. Cardiovascular Disease Detection using ECG Images</h1>
+<h2>Tech Stack: Python, TensorFlow, Keras, SqueezeNet, AlexNet, Deep Learning</h2>
+<h3>Description: Built a deep learning model to classify ECG images into four categories: Normal, Abnormal heartbeat, Heart attack, and Past heart attack.</h3>
+<h2>Key Contributions:</h2>
+<h4>• Applied transfer learning using pre-trained CNN models (SqueezeNet, AlexNet).</h4>
+<h4>• Performed data preprocessing, augmentation, and evaluation for accurate prediction.</h4>
+<h4>• Achieved high accuracy in early detection of heart conditions.</h4>
+<h4>• Created a user-friendly interface for model testing and visualization.</h4>
+
+<!-- 3. Tweet Sentiment Analyzer -->
+<h1 align="left">3. Tweet Sentiment Analyzer</h1>
+<h2>Tech Stack: Python, NLP, Scikit-learn, Pandas, Matplotlib</h2>
+<h3>Description: Developed a sentiment analysis tool to classify tweets as positive, negative, or neutral.</h3>
+<h2>Key Contributions:</h2>
+<h4>• Cleaned and preprocessed text data using NLP techniques like tokenization and lemmatization.</h4>
+<h4>• Trained machine learning models using TF-IDF and Logistic Regression.</h4>
+<h4>• Visualized sentiment distribution using Matplotlib for data insights.</h4>
+
+<!-- 4. Sales Data Analysis -->
+<h1 align="left">4. Sales Data Analysis</h1>
+<h2>Tech Stack: Python, Pandas, Matplotlib, Seaborn</h2>
+<h3>Description: Conducted data analysis on sales data to identify sales trends and customer behavior patterns.</h3>
+<h2>Key Contributions:</h2>
+<h4>• Cleaned and processed large datasets using Pandas.</h4>
+<h4>• Performed exploratory data analysis (EDA) to uncover patterns in sales performance.</h4>
+<h4>• Built predictive models to forecast future sales trends.</h4>
+<h4>• Created insightful visualizations to support business decisions.</h4>
 
 
 
