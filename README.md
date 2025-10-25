@@ -10,6 +10,7 @@
 
 ---
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vaishnu0503/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
@@ -19,6 +20,19 @@
 </p>
 
 ---
+<h3 align="left">1. Video Streaming Platform</h3>
+<h5>Tech Stack: Node.js, MongoDB, Express.js, HTML, CSS, GitHub</h5>
+<h4>Description: Developed a scalable video streaming web platform enabling users to upload, stream, and manage video content.</h4>
+<h5>Key Contributions:</h5>
+<h3>Designed backend APIs for user authentication and video management using Node.js and Express.</h3>
+<h3>Implemented MongoDB database schemas for efficient video metadata storage.</h3>
+<h3>Integrated streaming functionality ensuring smooth playback and optimized performance.</h3>
+<h3>Used GitHub for version control and deployment management.</h3>
+
+
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
