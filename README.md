@@ -20,56 +20,67 @@
 </p>
 
 ---
-<!-- 1. Video Streaming Platform -->
-<h1 align="left">1. Video Streaming Platform</h1>
-<h2>Tech Stack: Node.js, MongoDB, Express.js, HTML, CSS, GitHub</h2>
-<h3>Description: Developed a scalable video streaming web platform enabling users to upload, stream, and manage video content.</h3>
-<h2>Key Contributions:</h2>
-<h4>• Designed backend APIs for user authentication and video management using Node.js and Express.</h4>
-<h4>• Implemented MongoDB database schemas for efficient video metadata storage.</h4>
-<h4>• Integrated streaming functionality ensuring smooth playback and optimized performance.</h4>
-<h4>• Used GitHub for version control and deployment management.</h4>
+# Projects
 
-<!-- 2. Cardiovascular Disease Detection using ECG Images -->
-<h1 align="left">2. Cardiovascular Disease Detection using ECG Images</h1>
-<h2>Tech Stack: Python, TensorFlow, Keras, SqueezeNet, AlexNet, Deep Learning</h2>
-<h3>Description: Built a deep learning model to classify ECG images into four categories: Normal, Abnormal heartbeat, Heart attack, and Past heart attack.</h3>
-<h2>Key Contributions:</h2>
-<h4>• Applied transfer learning using pre-trained CNN models (SqueezeNet, AlexNet).</h4>
-<h4>• Performed data preprocessing, augmentation, and evaluation for accurate prediction.</h4>
-<h4>• Achieved high accuracy in early detection of heart conditions.</h4>
-<h4>• Created a user-friendly interface for model testing and visualization.</h4>
+## 1. Video Streaming Platform
+**Tech Stack:** Node.js, MongoDB, Express.js, HTML, CSS, GitHub  
+**Description:** Developed a scalable video streaming web platform enabling users to upload, stream, and manage video content.  
 
-<!-- 3. Tweet Sentiment Analyzer -->
-<h1 align="left">3. Tweet Sentiment Analyzer</h1>
-<h2>Tech Stack: Python, NLP, Scikit-learn, Pandas, Matplotlib</h2>
-<h3>Description: Developed a sentiment analysis tool to classify tweets as positive, negative, or neutral.</h3>
-<h2>Key Contributions:</h2>
-<h4>• Cleaned and preprocessed text data using NLP techniques like tokenization and lemmatization.</h4>
-<h4>• Trained machine learning models using TF-IDF and Logistic Regression.</h4>
-<h4>• Visualized sentiment distribution using Matplotlib for data insights.</h4>
+**Key Contributions:**  
+- Designed backend APIs for user authentication and video management using Node.js and Express.  
+- Implemented MongoDB database schemas for efficient video metadata storage.  
+- Integrated streaming functionality ensuring smooth playback and optimized performance.  
+- Used GitHub for version control and deployment management.  
 
-<!-- 4. Sales Data Analysis -->
-<h1 align="left">4. Sales Data Analysis</h1>
-<h2>Tech Stack: Python, Pandas, Matplotlib, Seaborn</h2>
-<h3>Description: Conducted data analysis on sales data to identify sales trends and customer behavior patterns.</h3>
-<h2>Key Contributions:</h2>
-<h4>• Cleaned and processed large datasets using Pandas.</h4>
-<h4>• Performed exploratory data analysis (EDA) to uncover patterns in sales performance.</h4>
-<h4>• Built predictive models to forecast future sales trends.</h4>
-<h4>• Created insightful visualizations to support business decisions.</h4>
+---
 
-<!-- 7. CryptoWeather Nexus -->
-<h1 align="left">5. CryptoWeather Nexus</h1>
-<h2>Tech Stack: Next.js, Redux, Tailwind CSS, Node.js, Express.js, PostgreSQL, WebSocket, AWS (S3 & EC2)</h2>
-<h3>Description: A multi-page dashboard integrating real-time cryptocurrency and weather data with live notifications and cloud deployment.</h3>
-<h2>Key Contributions:</h2>
-<h4>• Implemented backend services with Node.js, Express.js, and PostgreSQL, enabling efficient storage and querying of historical crypto and weather data.</h4>
-<h4>• Built WebSocket-based real-time notifications for market and weather updates, serving 200+ concurrent users with under 1-second latency.</h4>
-<h4>• Created automated CI/CD pipelines and deployed the application on AWS S3 and EC2 for reliable and scalable releases.</h4>
-<h4>• Managed dynamic application state using Redux to ensure smooth synchronization with frontend components.</h4>
-<h4>• Developed a responsive frontend with Next.js and Tailwind CSS, enhancing user experience and interface performance.</h4>
-<h4>• <a href="https://github.com/TadesenaVaishnavi/CryptoWeather-Nexus" target="_blank">GitHub Link</a></h4>
+## 2. Cardiovascular Disease Detection using ECG Images
+**Tech Stack:** Python, TensorFlow, Keras, SqueezeNet, AlexNet, Deep Learning  
+**Description:** Built a deep learning model to classify ECG images into four categories: Normal, Abnormal heartbeat, Heart attack, and Past heart attack.  
+
+**Key Contributions:**  
+- Applied transfer learning using pre-trained CNN models (SqueezeNet, AlexNet).  
+- Performed data preprocessing, augmentation, and evaluation for accurate prediction.  
+- Achieved high accuracy in early detection of heart conditions.  
+- Created a user-friendly interface for model testing and visualization.  
+
+---
+
+## 3. Tweet Sentiment Analyzer
+**Tech Stack:** Python, NLP, Scikit-learn, Pandas, Matplotlib  
+**Description:** Developed a sentiment analysis tool to classify tweets as positive, negative, or neutral.  
+
+**Key Contributions:**  
+- Cleaned and preprocessed text data using NLP techniques like tokenization and lemmatization.  
+- Trained machine learning models using TF-IDF and Logistic Regression.  
+- Visualized sentiment distribution using Matplotlib for data insights.  
+
+---
+
+## 4. Sales Data Analysis
+**Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
+**Description:** Conducted data analysis on sales data to identify sales trends and customer behavior patterns.  
+
+**Key Contributions:**  
+- Cleaned and processed large datasets using Pandas.  
+- Performed exploratory data analysis (EDA) to uncover patterns in sales performance.  
+- Built predictive models to forecast future sales trends.  
+- Created insightful visualizations to support business decisions.  
+
+---
+
+## 5. CryptoWeather Nexus
+**Tech Stack:** Next.js, Redux, Tailwind CSS, Node.js, Express.js, PostgreSQL, WebSocket, AWS (S3 & EC2)  
+**Description:** A multi-page dashboard integrating real-time cryptocurrency and weather data with live notifications and cloud deployment.  
+
+**Key Contributions:**  
+- Implemented backend services with Node.js, Express.js, and PostgreSQL, enabling efficient storage and querying of historical crypto and weather data.  
+- Built WebSocket-based real-time notifications for market and weather updates, serving 200+ concurrent users with under 1-second latency.  
+- Created automated CI/CD pipelines and deployed the application on AWS S3 and EC2 for reliable and scalable releases.  
+- Managed dynamic application state using Redux to ensure smooth synchronization with frontend components.  
+- Developed a responsive frontend with Next.js and Tailwind CSS, enhancing user experience and interface performance.  
+- [GitHub Link](https://github.com/TadesenaVaishnavi/CryptoWeather-Nexus)  
+
 
 
 
