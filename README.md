@@ -19,7 +19,7 @@
 - 🎓 Final-year Engineering Student (Graduating Aug 2026)
 - 💡 Strong in **Backend Development, Databases, AI & NLP**
 - 🔭 Built real-world projects with **Node.js, MongoDB, Python, ML**
-- 🚀 Looking for **Entry-level / Internship roles** in Software & AI
+- 🚀 Looking for **Entry-level** in Software & AI
 - 📫 Reach me at **vaishnavitadesena@gmail.com**
 
 ---
