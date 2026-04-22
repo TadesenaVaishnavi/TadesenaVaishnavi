@@ -94,5 +94,5 @@
 
 ---
 
-⭐ Consistency beats perfection. I code, learn, and improve every day.
+⭐ **Consistency beats perfection. I code, learn, and improve every day.**
 
