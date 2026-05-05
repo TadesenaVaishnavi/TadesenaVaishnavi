@@ -43,7 +43,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects 
 
 ### 🎥 Video Streaming Platform
 **Tech:** Node.js, Express, MongoDB  
