@@ -144,6 +144,6 @@ Trainee Software Engineer – Team Lead | Java Full-Stack Developer | Backend En
 ---
 
 <h3 align="center">
-⭐ Building scalable systems, solving backend challenges, and growing every day..
+⭐ Building scalable systems, solving backend challenges, and growing every day.
 </h3>
 
