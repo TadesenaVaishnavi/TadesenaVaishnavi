@@ -42,7 +42,7 @@ Trainee Software Engineer – Team Lead | Java Full-Stack Developer | Backend En
 `Java Spring Boot` `Spring MVC` `REST APIs` `Node.js` `Express.js` `JWT Authentication`
 
 ## 🎨 Frontend Development
-`React.js` `HTML5` `CSS3` `JavaScript` `Responsive UI Development`
+`React.js` `HTML5` `CSS3` `JavaScript` `Responsive UI Development` `Flutter`
 
 ## 🗄️ Databases
 `MongoDB` `MySQL` `PostgreSQL` `SQL`
