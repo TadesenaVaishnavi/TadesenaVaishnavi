@@ -113,6 +113,7 @@ Trainee Software Engineer – Team Lead | Java Full-Stack Developer | Backend En
 # 🏆 Achievements
 
 - 🥇 Best Intern of the Month — Recognized for performance, ownership, and backend contribution
+- 🥇 Best Leader of the Month for successfully leading and coordinating a team of 15+ developers and trainees
 - 👩‍💻 Led a team of 12+ developers to deliver full-stack applications within deadlines
 - 📜 Completed Infosys Springboard Certifications in AI and Full-Stack Development
 - 🌐 Earned Cisco Certifications in networking, cybersecurity, and IT fundamentals
